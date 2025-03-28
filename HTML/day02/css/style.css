@@ -1,16 +1,22 @@
-p{
-    color : red;
+table{
+border: 1px solid black;
+border-collapse: collapse;
+caption-side: bottom;
 }
 
-h1{
-    font-size: large;
-    text-align: center;
-}
-h2{
-    font-size: small;
+caption{
     text-align: right;
 }
-p2{
-    font-size: larger;
-    text-align:left;
+
+td,th{
+    border: 1px solid black;
+    padding: 12px;
+}
+
+td{
+    text-align: center;
+}
+
+.coloring{
+    background: yellow;
 }
