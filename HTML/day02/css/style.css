@@ -1,0 +1,16 @@
+p{
+    color : red;
+}
+
+h1{
+    font-size: large;
+    text-align: center;
+}
+h2{
+    font-size: small;
+    text-align: right;
+}
+p2{
+    font-size: larger;
+    text-align:left;
+}
