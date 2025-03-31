@@ -1,0 +1,12 @@
+.up{
+    background-color: blueviolet;
+    width: 100px;
+    height: 100px;
+}
+.down{
+    background-color: rgb(226, 43, 144);
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top:20px;
+}

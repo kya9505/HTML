@@ -1,0 +1,16 @@
+body{
+    height: 1000vh;
+}
+
+div{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(185, 235, 226);
+  
+    position: static;
+}
+
+#second{
+    background-color: rgb(180, 233, 164);
+    position: fixed;
+}
